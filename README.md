@@ -1,7 +1,7 @@
 # Edinburgh 2026 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-Liten reiseguide for gjengen som skal til Edinburgh **27.–30. august 2026** for å se
-**The Prodigy** på Edinburgh Summer Sessions, Royal Highland Showgrounds, lørdag 29. august.
+Liten reiseguide for Sigurd, Karl Eric og Lennart, som skal til Edinburgh **27.–30. august 2026**
+for å se **The Prodigy** på Edinburgh Summer Sessions, Royal Highland Showgrounds, lørdag 29. august.
 
 Innhold: fly- og hotellinfo, dag-for-dag-plan, konsertlogistikk, nabolagsguide for
 Fountainbridge, ting å se, mat- og pubtips og praktisk info.
