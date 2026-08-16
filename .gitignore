@@ -1,0 +1,4 @@
+# Personlige reisedokumenter - skal ikke publiseres
+*.pdf
+
+.DS_Store
